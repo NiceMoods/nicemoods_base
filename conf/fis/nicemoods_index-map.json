@@ -1,0 +1,191 @@
+{
+    "res": {
+        "nicemoods_index:page/index.tpl": {
+            "uri": "nicemoods_index/page/index.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            }
+        },
+        "nicemoods_index:page/layout.tpl": {
+            "uri": "nicemoods_index/page/layout.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            }
+        },
+        "nicemoods_index:static/js/index.js": {
+            "uri": "/static/nicemoods_index/static/js/index.js",
+            "type": "js"
+        },
+        "nicemoods_index:static/js/jquery.js": {
+            "uri": "/static/nicemoods_index/static/js/jquery.js",
+            "type": "js"
+        },
+        "nicemoods_index:static/js/mod.js": {
+            "uri": "/static/nicemoods_index/static/js/mod.js",
+            "type": "js"
+        },
+        "nicemoods_index:debug/app/nicemoods_index/action/index.js": {
+            "uri": "/static/nicemoods_index/debug/app/nicemoods_index/action/index.js",
+            "type": "js",
+            "deps": [
+                "nicemoods_index:debug/app/nicemoods_index/model/index.js",
+                "nicemoods_index:debug/app/nicemoods_index/lib/util.js"
+            ]
+        },
+        "nicemoods_index:debug/app/nicemoods_index/lib/util.js": {
+            "uri": "/static/nicemoods_index/debug/app/nicemoods_index/lib/util.js",
+            "type": "js"
+        },
+        "nicemoods_index:debug/app/nicemoods_index/model/index.js": {
+            "uri": "/static/nicemoods_index/debug/app/nicemoods_index/model/index.js",
+            "type": "js"
+        },
+        "nicemoods_index:debug/app/nicemoods_index/router.js": {
+            "uri": "/static/nicemoods_index/debug/app/nicemoods_index/router.js",
+            "type": "js"
+        },
+        "nicemoods_index:debug/static/nicemoods_index/static/js/index_d41d8cd.js": {
+            "uri": "/static/nicemoods_index/debug/static/nicemoods_index/static/js/index_d41d8cd.js",
+            "type": "js"
+        },
+        "nicemoods_index:debug/static/nicemoods_index/static/js/jquery_b33f798.js": {
+            "uri": "/static/nicemoods_index/debug/static/nicemoods_index/static/js/jquery_b33f798.js",
+            "type": "js"
+        },
+        "nicemoods_index:debug/static/nicemoods_index/static/js/mod_75d1f98.js": {
+            "uri": "/static/nicemoods_index/debug/static/nicemoods_index/static/js/mod_75d1f98.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/app/nicemoods_index/action/index.js": {
+            "uri": "/static/nicemoods_index/tz/app/nicemoods_index/action/index.js",
+            "type": "js",
+            "deps": [
+                "nicemoods_index:tz/app/nicemoods_index/model/index.js",
+                "nicemoods_index:tz/app/nicemoods_index/lib/util.js"
+            ]
+        },
+        "nicemoods_index:tz/app/nicemoods_index/lib/util.js": {
+            "uri": "/static/nicemoods_index/tz/app/nicemoods_index/lib/util.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/app/nicemoods_index/model/index.js": {
+            "uri": "/static/nicemoods_index/tz/app/nicemoods_index/model/index.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/app/nicemoods_index/router.js": {
+            "uri": "/static/nicemoods_index/tz/app/nicemoods_index/router.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/debug/app/nicemoods_index/action/index.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/action/index.js",
+            "type": "js",
+            "deps": [
+                "nicemoods_index:debug/app/nicemoods_index/model/index",
+                "nicemoods_index:debug/app/nicemoods_index/lib/util"
+            ]
+        },
+        "nicemoods_index:tz/static/nicemoods_index/debug/app/nicemoods_index/lib/util.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/lib/util.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/debug/app/nicemoods_index/model/index.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/model/index.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/debug/app/nicemoods_index/router.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/router.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/index_d41d8cd.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/index_d41d8cd.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/jquery_b33f798.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/jquery_b33f798.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/mod_75d1f98.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/mod_75d1f98.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/static/js/index_d41d8cd.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/static/js/index_d41d8cd.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/static/js/jquery_b33f798.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/static/js/jquery_b33f798.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/static/js/mod_75d1f98.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/static/js/mod_75d1f98.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/app/nicemoods_index/action/index.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/app/nicemoods_index/action/index.js",
+            "type": "js",
+            "deps": [
+                "nicemoods_index:tz/app/nicemoods_index/model/index",
+                "nicemoods_index:tz/app/nicemoods_index/lib/util"
+            ]
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/app/nicemoods_index/lib/util.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/app/nicemoods_index/lib/util.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/app/nicemoods_index/model/index.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/app/nicemoods_index/model/index.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/app/nicemoods_index/router.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/app/nicemoods_index/router.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/action/index.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/action/index.js",
+            "type": "js",
+            "deps": [
+                "nicemoods_index:debug/app/nicemoods_index/model/index",
+                "nicemoods_index:debug/app/nicemoods_index/lib/util"
+            ]
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/lib/util.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/lib/util.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/model/index.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/model/index.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/router.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/debug/app/nicemoods_index/router.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/index_d41d8cd.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/index_d41d8cd.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/jquery_b33f798.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/jquery_b33f798.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/mod_75d1f98.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/debug/static/nicemoods_index/static/js/mod_75d1f98.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/static/js/index_d41d8cd.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/static/js/index_d41d8cd.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/static/js/jquery_b33f798.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/static/js/jquery_b33f798.js",
+            "type": "js"
+        },
+        "nicemoods_index:tz/static/nicemoods_index/tz/static/nicemoods_index/static/js/mod_75d1f98.js": {
+            "uri": "/static/nicemoods_index/tz/static/nicemoods_index/tz/static/nicemoods_index/static/js/mod_75d1f98.js",
+            "type": "js"
+        }
+    },
+    "pkg": {}
+}
